@@ -1,6 +1,7 @@
 # Find Similar Words App
 
-![Find Similar Words App]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fgrammartop.com%2Flogo-synonyms%2F&psig=AOvVaw10W4yvb5A7a2oofrHigIKj&ust=1704712237890000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD1tZGSy4MDFQAAAAAdAAAAABAQ])
+![Find Similar Words App](![45333751](https://github.com/jamal022/Find-Similar-Words-App/assets/69757846/62c9bd24-eee3-491f-bb09-e5dbcecc6ce9)
+)
 
 ## Overview
 
