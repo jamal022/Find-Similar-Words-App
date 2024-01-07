@@ -37,6 +37,7 @@ Make sure you have Python installed. You can install the required dependencies u
 
 ```bash
 pip install -r requirements.txt
+```
 
 
 ## Running the Application
@@ -45,6 +46,7 @@ Run the following command to start the web application:
 
 ```bash
 streamlit run app.py
+```
 
 Visit http://localhost:8501 in your web browser to interact with the app.
 
