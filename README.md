@@ -1,6 +1,6 @@
 # Find Similar Words App
 
-![Find Similar Words App](./45333751.jpg)
+![Find Similar Words App](./video.mp4)
 
 ## Overview
 
