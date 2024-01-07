@@ -1,6 +1,6 @@
 # Find Similar Words App
 
-![Find Similar Words App]([your_image_link_here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgrammartop.com%2Flogo-synonyms%2F&psig=AOvVaw10W4yvb5A7a2oofrHigIKj&ust=1704712237890000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD1tZGSy4MDFQAAAAAdAAAAABAQ))
+![Find Similar Words App]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fgrammartop.com%2Flogo-synonyms%2F&psig=AOvVaw10W4yvb5A7a2oofrHigIKj&ust=1704712237890000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD1tZGSy4MDFQAAAAAdAAAAABAQ])
 
 ## Overview
 
