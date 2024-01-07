@@ -1,6 +1,6 @@
 # Find Similar Words App
 
-![Find Similar Words App](![45333751](https://github.com/jamal022/Find-Similar-Words-App/assets/69757846/62c9bd24-eee3-491f-bb09-e5dbcecc6ce9)
+![Find Similar Words App]([45333751](https://github.com/jamal022/Find-Similar-Words-App/assets/69757846/62c9bd24-eee3-491f-bb09-e5dbcecc6ce9)
 )
 
 ## Overview
